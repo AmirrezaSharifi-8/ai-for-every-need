@@ -1,4 +1,5 @@
 # ai-for-every-need
+I will update this list with all the greatest AI tools i find for each and every use case.
 
 ## UI Design
 - Google Stitch
@@ -15,3 +16,6 @@
 
 ## Slide Generation
 - NotebookLM + Canva (for editing)
+
+## MVP Generation
+- Google AI studio
