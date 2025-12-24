@@ -7,6 +7,7 @@ I will update this list with all the greatest AI tools i find for each and every
 ## Code Agent
 - Gemini CLI
 - Base44
+- Google Antigravity
 - z.ai
 
 ## Image Generation
