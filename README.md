@@ -5,7 +5,7 @@
 
 ## Code Agent
 - Gemini CLI
-- Claude Code
+- Base44
 - z.ai
 
 ## Image Generation
