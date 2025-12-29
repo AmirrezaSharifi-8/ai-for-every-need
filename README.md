@@ -20,3 +20,6 @@ I will update this list with all the greatest AI tools i find for each and every
 
 ## MVP Generation
 - Google AI studio
+
+## Finding Target Audience
+- https://happenstance.ai/
